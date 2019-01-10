@@ -55,10 +55,10 @@ los sonidos.
 conozca la gramatica espanola.
 * Tu comunicacion en espanol es facil por que reconoces facilmente
 los sonidos de la lengua espanola.
-* Has escuchado la palabra "Comida" 100 mil veces en tu vida, es por eso que te es
-facil identificarla.
-* Te has dado cuenta que las palabras mas comunes en Ingles son las
-que mas puedes identificar? "Hello", "Bye Bye!". La razon porque las
+* Has escuchado el sonido "Comida" multiples veces en su vida, es por eso que les es
+facil identificarlo.
+* Te has dado cuenta que los sonidos mas comunes en Ingles son los
+ mas faciles de identificar? "Hello", "Bye Bye!". La razon porque los
 has escuchado mas veces.
 
 ## Escucha 70% y escribe un 30%
@@ -95,8 +95,9 @@ que tomes, ni mucho menos pagues, ningun curso para aprender a hablar Ingles.
 * El problema con estos cursos esque tratan de enseñarle Ingles como su usted
 tuviera 5 años escuchando Ingles.
 * Recuerda cuantos años tenia usted cuando le trataron de enseñar la gramatica del idioma Espanol?
-probablemente 7 u 8 años. A esa edad, su nivel de Espanol era bastante avanzado.
-* Como se siente usted cuando intentan enseñarle el verbo "to-be" sin haber escuchado ni una pizca de Ingles?
+probablemente 7 u 8 años. A esa edad, su nivel de comunicacion en Espanol era bastante avanzado.
+* Como se siente usted cuando intentan enseñarle el verbo "to-be" y los 
+ verbos irregulares sin haber escuchado ni una pizca de Ingles?
   Probablemente de la misma manera que si sus papas trataran de enseñarle las agudas, graves
 y esdrujulas a los 2 años de edad.
 * Entoces, ustede debe empezar a aprender ingles de igual manera que empezo a aprender Espanol
