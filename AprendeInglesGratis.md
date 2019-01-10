@@ -10,6 +10,25 @@
 * 
 
 ## Introduccion
+* Este libro te ayudara a conocer la forma efectiva
+de aprender Ingles y que es gratuita por naturaleza.
+
+* No por el hecho de ser gratuita significa que es una forma poco efectiva
+o de poca calidad. 
+
+* Es gratuita por que se basa en la forma natural de aprender cualquier idioma.
+
+* Asi como usted no tuvo que gastar un solo centavo para aprender
+Espanol. No tiene que gastar dinero para aprender Ingles.
+
+* Este libro le enseñará la forma correcta de aprender a comunicarse
+en Ingles.
+
+* Este libro te ayudara tambien a detectar cuales cursos de Ingles
+no ayudan realmente a resolver el problema.
+
+* Despues de leer este libro, aprenderas que la gramatica no es lo que debes
+aprender.
 
 ## Como aprendiste a hablar espanol?
 * Los lloriqueos son la unica forma de comunicacion de los 
@@ -23,6 +42,9 @@ pero ya tenias un nivel aceptable de Espanol.
 * Tu español lo aprendiste durante tus primeros 5 años, tan solo escuchando.
 
 ## No se trata de palabras, sino de sonidos.
+* Cuando le saludan "Buenos dias" usted no escucha la palabra "Buenos" y "dias".
+Lo que escucha usted es un **sonido**.
+* Debido a que usted ha escuchado ese sonido multiples veces, sabe como responder a el.
 * A veces vemos peliculas en ingles y decimos que hablan
 muy rapido y que por eso no entendemos sus "palabras".
 * Lo cierto es que las palabras no importan. Lo que importan son
@@ -105,3 +127,8 @@ para todos los gustos, por lo que pueden encontrar algun show que le sea de su a
     * https://espanglishchat.com/
   * Podcasts
     * iVoox
+* He aqui otro secreto; ni siquiera necesario que pongas atencion lo que escuchas.
+* Recuerda que se trata simplemente de familiarizarte con los sonidos, 
+no de aprenderte palabras ni frases.
+    
+    
