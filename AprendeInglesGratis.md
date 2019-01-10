@@ -12,6 +12,7 @@
 * Conclusion
 
 ## Introduccion
+
 * Este libro te ayudara a conocer la forma efectiva
 de aprender Ingles y que es gratuita por naturaleza.
 
@@ -62,6 +63,8 @@ facil identificarlo.
 has escuchado mas veces.
 
 ## Escucha 70% y escribe un 30%
+* Mucha gente con nivel intermedio de Ingles se preocupa por que no puede hablarlo.
+* Si tu nivel de escucha mejora, automaticamente lo hara tu nivel del habla.
 * No se trata de memorizar el verbo "to-be". Tampoco se
 trata de aprender gramatica.
 * Solo se trata de escuchar Ingles sin parar.
@@ -105,31 +108,42 @@ al momento de nacer. Escuchando.
 * Estos cursos de Ingles aparte de ser caros, no sirven para aumentar su nivel.
 
 ## Cuanto tiempo lleva aprender Ingles?
-* El Ingles no es algo que se pueda aprender.
-* No son tablas de multiplicar.
+* El Ingles no es algo que se pueda aprender como si fueran tablas de multiplicar.
 * Nadie tiene conocimiento total de un idioma, ni siquiera las personas nativas.
-* A lo que puedes aspirar es lograr comunicarte en Ingles con un nativo y
+* A lo que puedes aspirar es lograr comunicarte en Ingles con un nativo del idioma y
 perderle el miedo a esa comunicacion.
-* Tu pregunta deberia siempre ser, cuanto tiempo me llevara poder comunicarme
-con una persona nativa del idioma Ingles?
+* Tu pregunta deberia siempre ser, "cuanto tiempo me llevara poder comunicarme
+con una persona nativa del idioma Ingles?"
 * Y la respuesta es, el mismo tiempo que te tomo poder comunicarte con una
 persona nativa del idioma Español. 5 años.
+* Comience escuchando Ingles principalmente en estaciones de radio como vaughanradio.com
+* Los primeros meses podran ser algo confusos, dependiendo de su nivel actual de entendmiento.
+
 
 ## Como puedo mejorar mi Ingles Gratis
-* No solo puedes, sino que debes. Hay muchos recursos para escuchar
-Ingles en Internet que son gratis y es algo mucho mejor que ir a un curso de Ingles.
-* Uno de ellos es Vaughan Radio (www.vaughanradio.com)
+* No solo puedes, sino que debes. 
+* Deje de pagar por cursos de Ingles, y enfoquese mejor en aumentar si nivel de 
+entendimiento por medio de la escucha.
+* Hay muchos recursos para escuchar Ingles en Internet que son 
+ gratuitos y functiona mucho mejor que ir a un curso de Ingles.
+* Uno de esos recursos es Vaughan Radio (www.vaughanradio.com)
+  * Grupo Vaughan (https://grupovaughan.com/sobre-vaughan/) es una empresa radicada en Espana creada por el famoso
+  maestro de Ingles originario de Texas Richard Vaughan.
 * Esta estacion de radio tiene programacion variada
 para todos los gustos, por lo que pueden encontrar algun show que le sea de su agrado.
 * Algunos de los shows que le recomiendo son:
-    * Richard Vaughan Live (con Richard Vaughan)
-    * Drive Time (con Kyle Millar)
-    * The show with no name (con Alberto Alonso)
+    * Richard Vaughan Live (https://mx.ivoox.com/es/podcast-richard-vaughan-live_sq_f180769_1.html)
+    * Drive Time (https://mx.ivoox.com/es/podcast-drive-time_sq_f117145_1.html)
+    * The show with no name (https://mx.ivoox.com/es/podcast-the-show-with-no-name_sq_f117685_1.html)
 * Utiliza recursos en linea
   * Chats Online
     * https://espanglishchat.com/
-  * Podcasts
-    * iVoox
+    * http://www.e-chat.co
+    * https://www.speaky.com
+* Si no tiene acceso a Internet continuo durante el dia, le recomiendo bajar podcast
+de la app iVoox en su celular.
+  * Android: https://play.google.com/store/apps/details?id=com.ivoox.app&hl=en_US
+  * iOS: https://itunes.apple.com/us/app/radio-podcast-ivoox/id542673545?mt=8
 * He aqui otro secreto; ni siquiera necesario que pongas atencion lo que escuchas.
 * Recuerda que se trata simplemente de familiarizarte con los sonidos, 
 no de aprenderte palabras ni frases.
@@ -146,7 +160,7 @@ no ayudara mucho a aprender Ingles.
   * Digamos que han pasado los 5 años, y ahora puede comunicarse en 
 Ingles con personas nativas. Como responderia a esta pregunta?
   * Responderia de la misma manera. "Aun no se Ingles, pero lo mejoro cada dia".
-* El hecho de mantener una actitud humilde, le ayudara a mejorar su nivel
+* Manteniendo una actitud humilde le ayudara a mejorar su nivel
 de Ingles mucho mas rapido.
 * Si usted trata de convencer a la gente de que usted ya sabe Ingles, pondra
 una barrera en sus intenciones de seguir escuchando. 
