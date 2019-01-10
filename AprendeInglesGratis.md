@@ -3,7 +3,7 @@
 * Introduccion
 * Como aprendiste a hablar espanol?
 * No se trata de palabras, sino de sonidos.
-* Escucha 70% y escribe un 30%
+* Escuche 70% y escriba un 30%
 * Las estafas de los cursos de Ingles.
 * Cuanto tiempo lleva aprender Ingles?
 * Como puedo aprender Ingles Gratis
@@ -62,28 +62,27 @@ facil identificarlo.
  mas faciles de identificar? "Hello", "Bye Bye!". La razon porque los
 has escuchado mas veces.
 
-## Escucha 70% y escribe un 30%
-* Mucha gente con nivel intermedio de Ingles se preocupa por que no puede hablarlo.
+## Escuche 70% y escriba un 30%
+* Procure enfoncar el 70% de su tiempo de aprendizaje en la mejora de
+nivel de escucha. El otro 30% en mejorar su nivel de escritura.
+* Por que es mas importante aprender a escribir que aprender a hablar?
+* Mucha gente con nivel intermedio de Ingles se preocupa por que no puede hablarlo
+correctamente.
 * Si tu nivel de escucha mejora, automaticamente lo hara tu nivel del habla.
-* No se trata de memorizar el verbo "to-be". Tampoco se
-trata de aprender gramatica.
+* Aprender Ingles no se trata de memorizar el verbo "to-be" ni de dominar la gramatica.
 * Solo se trata de escuchar Ingles sin parar.
-* Si acaso decidieras aprender Ingles de la manera tradicional,
-producura que el 70% de tu tiempo de aprendizaje lo ocupes escuchando.
 * Puedes escuchar Ingles en tu tiempo libre o mientras trabajas.
-* Mientras mas escuches, menos tiempo te tomara aprender.
-* Cualquier cosa que escuches, deberia ser algo que sea divertido.
-Algo que te entretenga.
-* Escucha Ingles durante 8 horas diarias y tendras un nivel
-alto de Ingles es 4 años.
+* Mientras mas escuches, menos tiempo te tomara llegar a dominar el idioma.
+* Cualquier cosa que escuche, deberia ser algo que sea divertido. Algo que le entretenga.
+* Escucha Ingles durante 8 horas diarias y tendras un nivel alto de Ingles es 4 años.
 * El secreto esta en que jamas debes parar.
-* Si pasas una semana sin escuchar Ingles diariamente. Tu meta 4 años se
-reiniciaria.
-* El tiempo restante lo deberias pasar escribiendo.
-* Esto debido a que cada vez mas la comunicacion escrita le va ganando
+* Si pasas una semana sin escuchar Ingles diariamente. Tu meta 4 años reiniciaria y
+tendrias que volver a empezar.
+* El 30% de su tiempo de estudio restante lo deberia pasar escribiendo.
+* Esto debido a que cada vez mas la comunicacion escrita le va ganando terreno
 a la comunicacion verbal.
 * Y esto es algo bueno, ya que es mas facil escribir el Ingles que hablarlo.
-* Para practicar esto puedes entrar en chats donde solo se hable Ingles.
+* Para practicar esto puedes entrar en chats online donde solo se hable Ingles.
 
 ## Las estafas de los cursos de Ingles. 
 * Frases como las siguientes son usadas por muchas personas y empresas
