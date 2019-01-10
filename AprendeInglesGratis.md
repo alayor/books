@@ -7,6 +7,7 @@
 * Las estafas de los cursos de Ingles.
 * Cuanto tiempo lleva aprender Ingles?
 * Como puedo aprender Ingles Gratis
+* Ver peliculas o escuchar canciones en Ingles no ayuda del todo.
 * Sabes Ingles? - Si, entiendo algunas palabras.
 * (Tema libre)
 * Conclusion
@@ -147,6 +148,21 @@ de la app iVoox en su celular.
 * Recuerda que se trata simplemente de familiarizarte con los sonidos, 
 no de aprenderte palabras ni frases.
     
+## Ver peliculas o escuchar canciones en Ingles no ayuda del todo.
+* Intentar aprender viendo peliculas en Ingles puede resultar contraproducente.
+* El hecho de entender una pelicula hablada en Ingles es una habilidad extremadamente
+dificil para una persona no nativa del idioma.
+* Esto puede resultar en desmotivacion.
+* Lo cierto es que el tipo de Ingles en las peliculas no es el mismo tipo que se utiliza
+comunmente en la vida real. Las palabras y el ritmo varia.
+* Con las canciones pasa exactamente lo mismo.
+* Si usted solo se enfoca en escuchar alguna estacion de radio (por ejemplo, vaughanradio.com) durante 2 años,
+le aseguro que al momento de ver una pelicula en Ingles podra entenderle mejor.
+* Viajar temporalmente a un pais de habla inglesa, dependiendo
+ de la situacion, tambien puede salir contraproducente.
+* El objetivo de viajar a otro pais deberia ser le hecho de perder el miedo a comunicarse
+con una persona nativa. Eso lo recomiendo hacer despues haber escuchado Ingles por 4 años.
+
 ## Sabes Ingles? - Si, entiendo algunas palabras.
 * Esta respuesta la escucho en muchas personas cuando tratan de evitar
 solucionar su problema del Ingles.
