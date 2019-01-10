@@ -1,13 +1,15 @@
-# "Aprenda" Ingles Gratis
+# Aprenda Ingles Gratis
 ## Indice
 * Introduccion
 * Como aprendiste a hablar espanol?
 * No se trata de palabras, sino de sonidos.
 * Escucha 70% y escribe un 30%
 * Las estafas de los cursos de Ingles.
-* Cuanto tiempo te lleva aprender Ingles?
+* Cuanto tiempo lleva aprender Ingles?
 * Como puedo aprender Ingles Gratis
-* 
+* Sabes Ingles? - Si, entiendo algunas palabras.
+* (Tema libre)
+* Conclusion
 
 ## Introduccion
 * Este libro te ayudara a conocer la forma efectiva
@@ -101,7 +103,7 @@ y esdrujulas a los 2 años de edad.
 al momento de nacer. Escuchando.
 * Estos cursos de Ingles aparte de ser caros, no sirven para aumentar su nivel.
 
-## Cuanto tiempo me llevara aprender Ingles?
+## Cuanto tiempo lleva aprender Ingles?
 * El Ingles no es algo que se pueda aprender.
 * No son tablas de multiplicar.
 * Nadie tiene conocimiento total de un idioma, ni siquiera las personas nativas.
@@ -131,4 +133,26 @@ para todos los gustos, por lo que pueden encontrar algun show que le sea de su a
 * Recuerda que se trata simplemente de familiarizarte con los sonidos, 
 no de aprenderte palabras ni frases.
     
-    
+## Sabes Ingles? - Si, entiendo algunas palabras.
+* Esta respuesta la escucho en muchas personas cuando tratan de evitar
+solucionar su problema del Ingles.
+* El problema con esta respuesta es que demuestra una mentalidad que
+no ayudara mucho a aprender Ingles.
+* Tiene que tener en mente que el Ingles nunca lo va a aprender al 100%
+* Ni siquiera las personas con nivel nativo lo conocen totalmente.
+* Una mejor respuesta seria "No se Ingles, pero cada dia mejoro mi nivel"
+* Y como lo mejora cada dia? Pues escuchando Ingles todos los dias.
+  * Digamos que han pasado los 5 años, y ahora puede comunicarse en 
+Ingles con personas nativas. Como responderia a esta pregunta?
+  * Responderia de la misma manera. "Aun no se Ingles, pero lo mejoro cada dia".
+* El hecho de mantener una actitud humilde, le ayudara a mejorar su nivel
+de Ingles mucho mas rapido.
+* Si usted trata de convencer a la gente de que usted ya sabe Ingles, pondra
+una barrera en sus intenciones de seguir escuchando. 
+  * Se diria a usted mismo. Por tendria que seguir escuchando Ingles si se supone que ya lo se?
+  
+## Tema libre
+Para el freelancer asociado: Usted puede elegir algun tema y escribirlo.
+
+## Discusion
+Para el freelancer asociado: Hacer un resumen de los temas vistos.
