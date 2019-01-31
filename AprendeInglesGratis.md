@@ -184,5 +184,5 @@ una barrera en sus intenciones de seguir escuchando.
 ## Tema libre
 Para el freelancer asociado: Usted puede elegir algun tema y escribirlo.
 
-## Discusion
+## Conclusion
 Para el freelancer asociado: Hacer un resumen de los temas vistos.
