@@ -9,7 +9,7 @@
 * Como puedo aprender Ingles Gratis
 * Ver peliculas o escuchar canciones en Ingles no ayuda del todo.
 * Sabes Ingles? - Si, entiendo algunas palabras.
-* (Tema libre)
+* Errores comunes
 * Conclusion
 
 ## Introduccion
@@ -181,8 +181,32 @@ de Ingles mucho mas rapido.
 una barrera en sus intenciones de seguir escuchando. 
   * Se diria a usted mismo. Por tendria que seguir escuchando Ingles si se supone que ya lo se?
   
-## Tema libre
-Para el freelancer asociado: Usted puede elegir algun tema y escribirlo.
+## Errores comunes
+* Intentar aprender gramatica cuando aun no tiene un nivel avanzado de escucha.
+  * El mejor momento para aprender gramatica es cuando usted ya entiende una conversacion
+  al momento de escucharla.
+  * Aun asi, es posible que nisiquiera necesita aprenderla para poder comunicarse.
+* Enfocarse en aprender palabras en lugar de frases.
+  * Ya dijimos que lo que no se aprenden son palabras, si no sonidos.
+  * Entonces usted deberia enfocarse en aprender los sonidos de las frases mas que las palabras en si.
+* Intentar buscar logica en el idioma.
+  * El Ingles (como cualquier otro idioma) tiene reglas. Mas usted no necesita aprenderlas o
+  memorizarlas para poder comunicarse en Ingles.
+* Pensar que entre mas gaste dinero, aprendera mas rapido.
+* Estudiar ingles 1 o dos horas al dia por solo algunas semanas.
+  * Si usted quiere realmente comunicarse en Ingles, tiene que hacer lo que las demas personas
+  no hacen. Esuchar ingles 8 horas diarias durante 5 años.
+* 
+  
+## Agregar a "No se trata de palabras, sino de sonidos".
+* "El ha estuvo con usted ayer". Como suena eso? Como un error gramatical?
+  * Acaso usted inmediatamente detecto el error en los tiempos verbales.
+  * No. Realmente lo que usted detecto fue un error en el "sonido" de esa frase.
+  * Es asi que usted no necesita aprender gramatica para saber como decir las
+  cosas correctamente en Ingles.
+  * Lo que usted necesita es escuchar mil veces una frase en Ingles.
+  * De tal manera que al momento que esa frase se diga de manera "extraña" usted pueda
+  detectar el error cuando otra persona o inclusive USTED diga la frase.
 
 ## Conclusion
 Para el freelancer asociado: Hacer un resumen de los temas vistos.
