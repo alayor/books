@@ -196,7 +196,12 @@ una barrera en sus intenciones de seguir escuchando.
 * Estudiar ingles 1 o dos horas al dia por solo algunas semanas.
   * Si usted quiere realmente comunicarse en Ingles, tiene que hacer lo que las demas personas
   no hacen. Esuchar ingles 8 horas diarias durante 5 años.
-* 
+* Perder la vision del porque esta estudiando Ingles y los beneficios que trae.
+  * Usted debe ser ambicioso. La ambicion no es mala si no perjudica a los demas.
+  * El hecho de aprender Ingles le puede traer enormes beneficios economicos.
+  * La meta de 5 años puede parecer algo dificil. Pero que pensaria si le dijera
+  que en 5 años sus problemas laborales desapareceran y sus ingresos aumentaran.
+  * Entre mas rapido comience, esos 5 años llegaran mas pronto.
   
 ## Agregar a "No se trata de palabras, sino de sonidos".
 * "El ha estuvo con usted ayer". Como suena eso? Como un error gramatical?
