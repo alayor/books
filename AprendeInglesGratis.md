@@ -204,7 +204,7 @@ una barrera en sus intenciones de seguir escuchando.
   * Entre mas rapido comience, esos 5 años llegaran mas pronto.
   
 ## Agregar a "No se trata de palabras, sino de sonidos".
-* "El ha estuvo con usted ayer". Como suena eso? Como un error gramatical?
+* "Él ha estuvo con usted ayer". Como suena eso? Como un error gramatical?
   * Acaso usted inmediatamente detecto el error en los tiempos verbales.
   * No. Realmente lo que usted detecto fue un error en el "sonido" de esa frase.
   * Es asi que usted no necesita aprender gramatica para saber como decir las
